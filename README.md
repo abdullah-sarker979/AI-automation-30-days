@@ -1,1 +1,1 @@
-This a challenge to learn AI automaion in 30 days.
+A challenge to learn AI automation in 30 days.
